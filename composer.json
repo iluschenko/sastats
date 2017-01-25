@@ -1,12 +1,11 @@
 {
-    "name": "bjeavons/sastats",
+    "name": "iluschenko/sastats",
     "type": "library",
     "description": "A parser for extracting Drupal Security Advisory data.",
     "keywords": ["drupal"],
     "license": "GPL-3.0",
     "require": {
-        "fabpot/goutte": "~3.0",
-        "symfony/console": "2.7.1"
+        "fabpot/goutte": "~3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0"
